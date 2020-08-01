@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TraviCraft",
+  "name": "Travi Craft",
+  "description": "My first mod for Minecraft.Thank you for downloading this mod!",
+  "version": "3.2.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mr_ten_fan"],
+  "credits": "Special thanks for: Vadimka(Coding), Werman(The name ore) and Dankac(Modeling)",
+  "logoFile": "Travicraft.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
